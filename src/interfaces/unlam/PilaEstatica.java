@@ -4,6 +4,8 @@ public  class PilaEstatica <T>implements Pila
 {
 	/*
 	 * Ver si funca los branchs y todo eso
+	 * vamos k ahora si
+	 * 
 	 * 
 	 */
 	
