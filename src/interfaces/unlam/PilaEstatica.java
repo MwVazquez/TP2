@@ -2,6 +2,13 @@ package interfaces.unlam;
 
 public  class PilaEstatica <T>implements Pila
 {
+	/*
+	 * Ver si funca los branchs y todo eso
+	 * 
+	 */
+	
+	
+	
 	public T [] vector;
 	public int cantidad;
 	public int cap;
